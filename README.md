@@ -2,9 +2,10 @@
 
 ## 回家地址：
  Telegram Group: https://t.me/AVhot
- Potato Group: https://potato.im/avhot
+
 ## 2018年11月29日更新：
  最新下载地址：https://di.dk009.com/app.html
+ 
 ## 下载地址
  如果微信、QQ扫码无法打开，请换其他浏览器扫码下载
 
